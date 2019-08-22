@@ -1,0 +1,21 @@
+Here are ten datasets with original links we used in our work:
+
+1. Air Force: source http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
+
+2. Darpa: source https://www.ll.mit.edu/r-d/datasets/2000-darpa-intrusion-detection-scenario-specific-datasets
+
+3. Android: source http://jmcauley.ucsd.edu/data/amazon/
+
+4. Enron Emails: source http://frostt.io/tensors/
+
+5. Stack Overflow: source http://konect.uni-koblenz.de/networks/stackexchange-stackoverflow
+
+6+7. Enwiki + Kowiki: source http://dumps.wikimedia.org/kowiki/ and http://dumps.wikimedia.org/enwiki/
+
+8. Youtube: source http://konect.uni-koblenz.de/networks/youtube-u-growth
+
+9. NIPS Publications: source http://frostt.io/tensors/
+
+10. LBNL-Network: source http://frostt.io/tensors/
+
+Contact author for more information.
